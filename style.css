@@ -38,6 +38,11 @@ header{
     transition: 0.3s;
 }
 
+.Nav a.inicio{
+    background-color: blueviolet;
+    color: blue;
+}
+
 .Nav a:hover{
     background-color: gray;
     color: magenta;
