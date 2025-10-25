@@ -38,7 +38,7 @@ header{
     transition: 0.3s;
 }
 
-.Nav a.inicio{
+.Nav a.menu{
     background-color: blueviolet;
     color: blue;
 }
@@ -51,24 +51,27 @@ header{
 main{
     text-align: center;
 }
-
-.recuadro{
+.Carta{
     display: inline-block;
-    padding: 10px;
+    padding: 30px;
     background-color: rgba(128, 128, 128, 0.7);
     border-radius: 40px;
-    color: bisque;
-    margin: 30px;
+    color: darkblue;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    margin: 50px;
 }
 
-.recuadro p{
-    color:bisque;
-}
-
-.recuadro img{
-    max-width: 55%;
-    height: 60%;
-    border-radius: 21px;
+.Carta1{
+    display: inline-block;
+    padding: 30px;
+    background-color: rgba(128, 128, 128, 0.7);
+    border-radius: 40px;
+    color: darkblue;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
 }
 
 footer {
